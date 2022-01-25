@@ -23,6 +23,15 @@
 	month={Aug}
 }
 
+@book{FalkBook,
+	author = {Falk, Kim},
+	title = {{Practical Recommender Systems}},
+	journal = {O'Reilly Online Learning},
+	isbn = {978-1-61729270-5},
+	publisher = {Manning Publications},
+	url = {https://learning.oreilly.com/library/view/practical-recommender-systems/9781617292705}
+}
+
 @book{FalkChp7,
 	author = {Falk, Kim},
 	title = {{Chapter 7. Finding similarities among users and among content}},
