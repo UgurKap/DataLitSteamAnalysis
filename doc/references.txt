@@ -32,6 +32,19 @@
 	url = {https://learning.oreilly.com/library/view/practical-recommender-systems/9781617292705}
 }
 
+ @inproceedings{Sarwar_Karypis_Konstan_Reidl_2001,
+ place={Hong Kong, Hong Kong},
+ title={Item-based collaborative filtering recommendation algorithms},
+ ISBN={978-1-58113-348-6},
+ url={http://portal.acm.org/citation.cfm?doid=371920.372071},
+ DOI={10.1145/371920.372071},
+ booktitle={Proceedings of the tenth international conference on World Wide Web  - WWW ’01},
+ publisher={ACM Press},
+ author={Sarwar, Badrul and Karypis, George and Konstan, Joseph and Reidl, John},
+ year={2001},
+ pages={285–295}
+}
+
 @book{FalkChp7,
 	author = {Falk, Kim},
 	title = {{Chapter 7. Finding similarities among users and among content}},
@@ -58,3 +71,4 @@
 	publisher = {Manning Publications},
 	url = {https://learning.oreilly.com/library/view/practical-recommender-systems/9781617292705/kindle_split_022.html#ch11lev1sec1}
 }
+
