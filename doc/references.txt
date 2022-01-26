@@ -23,6 +23,20 @@
 	month={Aug}
 }
 
+@article{Linden_Smith_York_2003,
+	title={Amazon.com recommendations: item-to-item collaborative filtering},
+	volume={7}, ISSN={1941-0131},
+	DOI={10.1109/MIC.2003.1167344},
+	abstractNote={Recommendation algorithms are best known for their use on e-commerce Web sites, where they use input about a customer’s interests to generate a list of recommended items. Many applications use only the items that customers purchase and explicitly rate to represent their interests, but they can also use other attributes, including items viewed, demographic data, subject interests, and favorite artists. At Amazon.com, we use recommendation algorithms to personalize the online store for each customer. The store radically changes based on customer interests, showing programming titles to a software engineer and baby toys to a new mother. There are three common approaches to solving the recommendation problem: traditional collaborative filtering, cluster models, and search-based methods. Here, we compare these methods with our algorithm, which we call item-to-item collaborative filtering. Unlike traditional collaborative filtering, our algorithm’s online computation scales independently of the number of customers and number of items in the product catalog. Our algorithm produces recommendations in real-time, scales to massive data sets, and generates high quality recommendations.},
+	number={1},
+	journal={IEEE Internet Computing},
+	author={Linden, G. and Smith, B. and York, J.},
+	year={2003},
+	month={Jan},
+	pages={76–80}
+	
+}
+
 @book{FalkBook,
 	author = {Falk, Kim},
 	title = {{Practical Recommender Systems}},
@@ -33,16 +47,16 @@
 }
 
  @inproceedings{Sarwar_Karypis_Konstan_Reidl_2001,
- place={Hong Kong, Hong Kong},
- title={Item-based collaborative filtering recommendation algorithms},
- ISBN={978-1-58113-348-6},
- url={http://portal.acm.org/citation.cfm?doid=371920.372071},
- DOI={10.1145/371920.372071},
- booktitle={Proceedings of the tenth international conference on World Wide Web  - WWW ’01},
- publisher={ACM Press},
- author={Sarwar, Badrul and Karypis, George and Konstan, Joseph and Reidl, John},
- year={2001},
- pages={285–295}
+	place={Hong Kong, Hong Kong},
+	title={Item-based collaborative filtering recommendation algorithms},
+	ISBN={978-1-58113-348-6},
+	url={http://portal.acm.org/citation.cfm?doid=371920.372071},
+	DOI={10.1145/371920.372071},
+	booktitle={Proceedings of the tenth international conference on World Wide Web  - WWW ’01},
+	publisher={ACM Press},
+	author={Sarwar, Badrul and Karypis, George and Konstan, Joseph and Reidl, John},
+	year={2001},
+	pages={285–295}
 }
 
 @book{FalkChp7,
