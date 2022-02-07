@@ -13,3 +13,9 @@ All figures were generated procedurally in the notebooks. Regenerating the figur
 ## Environment
 
 The `environment.yml` file has the required libraries and their versions.
+
+## Notebooks
+
+- Notebooks in the `src` folder are the main notebooks.
+- `exp` have failed experiments, some things I have thought about but did not do, etc.
+
